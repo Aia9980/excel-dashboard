@@ -51,3 +51,7 @@ The dashboard provides a high-level view of sales performance, featuring interac
 
 👉 *This project highlights my ability to move from raw data to actionable insights using Excel. It’s a portfolio-ready example of how analytics can drive smarter business strategies.*  
 
+##👤 Author
+Created by Abdulrasaq Ibrahim Ademola.
+I am passionate about data analytics and visualization.
+Connect with me on linkedin (https://www.linkedin.com/in/abdulrasaq-ibrahim-ademola/) and github.
