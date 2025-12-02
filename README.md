@@ -4,6 +4,20 @@
 This project demonstrates how I transformed raw sales data into actionable insights using **Excel dashboards**.  
 The workflow covers **data cleaning → exploratory data analysis (EDA) → pivot tables → pivot charts → interactive dashboards**.
 
+## 🎬 Dashboard Demo Video
+
+Watch the full walkthrough of the Sales Performance Analytics Dashboard in Excel:
+
+▶️ [sales_performance_dashboard_demo_video.mp4](sales_performance_dashboard_demo_video.mp4)
+
+This demo showcases how raw sales data was transformed into actionable insights using Excel, including pivot tables, charts, slicers, and timelines.
+
+## 📸 Dashboard Screenshot
+
+![Dashboard Overview](dashboard_overview.png)
+
+The dashboard provides a high-level view of sales performance, featuring interactive filters, trend analysis, and customer segmentation insights.
+
 ## 🛠 Tools & Techniques
 - **Excel**: Pivot Tables, Pivot Charts, Timelines, Slicers  
 - **Data Cleaning**: Handling missing values, formatting, standardization  
