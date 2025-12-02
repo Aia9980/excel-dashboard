@@ -53,5 +53,5 @@ The dashboard provides a high-level view of sales performance, featuring interac
 
 ## 👤 Author
 Created by Abdulrasaq Ibrahim Ademola.
-I am passionate about data analytics and visualization.
+Passionate about data analytics and visualization.
 Connect with me on linkedin (https://www.linkedin.com/in/abdulrasaq-ibrahim-ademola/) and github.
